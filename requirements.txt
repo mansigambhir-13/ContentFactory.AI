@@ -1,0 +1,30 @@
+# Core LangGraph and LangChain
+langgraph==0.2.34
+langchain==0.2.16
+langchain-openai==0.1.25
+langchain-community==0.2.16
+
+# Environment and configuration
+python-dotenv==1.0.0
+pydantic==2.8.2
+
+# Web API framework
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+
+# Social media APIs (optional)
+tweepy==4.14.0
+linkedin-api==2.2.0
+
+# Web requests and async
+requests==2.31.0
+aiohttp==3.9.1
+
+# Browser automation (optional)
+selenium==4.15.0
+webdriver-manager==4.0.1
+
+# Scheduling and utilities
+schedule==1.2.0
+qrcode==7.4.2
